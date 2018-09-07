@@ -1,11 +1,11 @@
 
-                                 [tutorial video ](https://www.youtube.com/watch?v=7fdEjpKfDWc&list=UU5SVtfoUTz9NmT53N_zTAEw&index=11)
+[tutorial video ](https://www.youtube.com/watch?v=7fdEjpKfDWc&list=UU5SVtfoUTz9NmT53N_zTAEw&index=11)
 
 
 first of all you should setup the library (pyqt4 and pygraphviz)
 
 
-#                                 here are the instructions 
+# here are the instructions 
 
 
 ```python
