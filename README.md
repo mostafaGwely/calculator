@@ -7,6 +7,9 @@ first of all you should setup the library (pyqt4 and pygraphviz)
 
 # here are the instructions 
 #### if you using conda 
+create env and run the project but there will be **show tree** bug
+
+
 ```conda env create -f``` [environment.yaml](https://github.com/mostafaGwely/calculator/blob/master/enviroment.yaml)
 
 or
