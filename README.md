@@ -1,9 +1,6 @@
 
 [tutorial video ](https://www.youtube.com/watch?v=7fdEjpKfDWc&list=UU5SVtfoUTz9NmT53N_zTAEw&index=11)
 
-<a href="https://www.youtube.com/watch?v=7fdEjpKfDWc&list=UU5SVtfoUTz9NmT53N_zTAEw&index=11" target="_blank"><img src="https://www.youtube.com/watch?v=7fdEjpKfDWc&list=UU5SVtfoUTz9NmT53N_zTAEw&index=11/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
 
 first of all you should setup the library (pyqt4 and pygraphviz)
 
