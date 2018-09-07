@@ -6,7 +6,10 @@ first of all you should setup the library (pyqt4 and pygraphviz)
 
 
 # here are the instructions 
+#### if you using conda 
+```conda env create -f``` [environment.yaml]()
 
+or
 
 ```python
 sudo pip install python-pyqt4
