@@ -10,7 +10,7 @@ $sudo  pip install pygraphviz
 $sudo pip install image
 ###################################################
 
-there a 3 algorithms in this progject to calculate the infix expresion 
+***there a 3 algorithms in this progject to calculate the infix expresion 
 
 1- using postfix expresion >>>> the file of that algorithm named "postfix.py"
 2- usind tree(by insert parentheses to th infix expresion)  >>>> the file of that algorithm named "parentheses.py"
